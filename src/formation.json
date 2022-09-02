@@ -1,0 +1,19 @@
+[
+    {
+        "School": "Università Degli Studi Di Torino",
+        "Title": "Laurea triennale in Scienze e Tecnologie Informatiche, Informatica",
+        "Start": "September 2021",
+        "End": "",
+        "Mark": "",
+        "Place" : "Torino (TO)",
+        "Description" : ""
+    },{
+        "School": "Itis Max Planck",
+        "Title": "Diploma Istituto Tecnico e Professionale, Informatica",
+        "Start": "September 2016",
+        "End": "July 2021",
+        "Mark": "100/100",
+        "Place" : "Villorba (TV)",
+        "Description" : "Programming fundamentals in different languages such C, Java, PHP, SQL, Assembly. Software and network design and basics."
+    }
+]
